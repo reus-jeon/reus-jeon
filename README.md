@@ -112,21 +112,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reus-jeon&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reus-jeon&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reus-jeon&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
-
-</div>
-
-### 🏢 Organization Contributions
-
-<div align="center">
-
-**Private & Organization 작업 포함 시 실제 기여도는 통계보다 훨씬 높습니다!**
-
-</div>
 
 <details>
 <summary>📦 주요 Organization 프로젝트</summary>
