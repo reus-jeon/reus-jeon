@@ -113,6 +113,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reus-jeon&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
+</div>
+
 <details>
 <summary>📦 주요 Organization 프로젝트</summary>
 
