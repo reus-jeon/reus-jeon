@@ -59,17 +59,18 @@
 ## 🏆 Career Highlights
 
 ### 🏢 Enterprise Experience
-- **NTS Soft** (2025) - Riskzero 철도 안전관리 솔루션
-- **단비플러스** (2024-2025) - SC제일은행 방문판매 솔루션 & 신분증 인식 개선
-- **헬리오소프트** (2019-2021) - KT ds HelpIT & 챗봇 SM
+- **NTS Soft** (2024.09 - 2024.12) - Riskzero 철도 안전관리 솔루션
+- **단비플러스** (2024.07 - 2025.03) - SC제일은행 방문판매 솔루션 & 신분증 인식 개선
+- **헬리오소프트** (2019.12 - 2021.03) - KT ds HelpIT & 챗봇 SM
 
 ### 🚀 Startup & Scale-up
-- **리즈헬스케어** (2023-2024) - 팀 리더, 건강기능식품 커머스 플랫폼
-- **225 Entertainment** (2021-2023) - 팀 리더, 스포츠 커뮤니티 & 마케팅 소프트웨어
-- **아이스파이프 LED** (2018-2019) - B2B 조명거래 플랫폼
+- **리즈헬스케어** (2023.09 - 2024.05) - 팀 리더, 건강기능식품 커머스 플랫폼
+- **225 Entertainment** (2021.04 - 2023.08) - 팀 리더, 스포츠 커뮤니티 & 마케팅 소프트웨어
+- **아이스파이프 LED** (2018.07 - 2019.08) - B2B 조명거래 플랫폼
 
-### 💼 Team Semicolon (2018-2020)
-대표 & 리드 개발자로서 **30+ 프로젝트 수주 및 완수**
+### 💼 Team Semicolon
+**2018-2020**: 대표 & 리드 개발자로서 **30+ 프로젝트 수주 및 완수**
+**2025-현재**: 커뮤니티 솔루션 개발 중심 팀 활동 재개
 
 <details>
 <summary>📌 주요 프로젝트 보기</summary>
@@ -95,17 +96,15 @@
 
 ---
 
-## 🎯 Current Focus (2024-2025)
+## 🎯 Current Focus (2025)
 
 ### 🔥 Active Projects
 
-**PI200 - SNA 컨텐츠 스크래핑 시스템**
-- Node.js DDD 구조 설계
-- AWS Lightsail WordPress 기반 Coin Talk 서비스
-
-**4 NULL - IN IT 온보딩 지원 서비스**
-- Leader 역할
-- GitHub Organization 형상관리 환경 구축
+**Team Semicolon - 커뮤니티 솔루션 개발**
+- 코인토크, 랜드, 정칩판, 오피스 등 다중 커뮤니티 플랫폼 운영
+- Next.js + Supabase 기반 아키텍처
+- GitHub Organization 기반 협업 환경 구축
+- Epic-to-Tasks 자동화 워크플로우 시스템
 
 ---
 
@@ -113,11 +112,42 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reus-jeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reus-jeon&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reus-jeon&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reus-jeon&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
 </div>
+
+### 🏢 Organization Contributions
+
+<div align="center">
+
+**Private & Organization 작업 포함 시 실제 기여도는 통계보다 훨씬 높습니다!**
+
+</div>
+
+<details>
+<summary>📦 주요 Organization 프로젝트</summary>
+
+#### 🏦 SC제일은행 프로젝트 (단비플러스)
+- **기여도**: API 설계 95%, 서버 구축 70%, 어드민 100%
+- **Tech**: Spring Boot, PostgreSQL, Kubernetes, Azure DevOps
+- **성과**: 방문판매 솔루션 전체 아키텍처 설계 및 구현
+
+#### 🚄 Riskzero 철도 안전관리 (NTS Soft)
+- **기간**: 2024.09.18 - 2024.12.18
+- **기여도**: Frontend 개발 주도
+- **Tech**: React, TypeScript
+- **성과**: 국가철도공단 산업안전 데이터 시각화 시스템 구축
+
+#### 💊 리즈온 커머스 (리즈헬스케어)
+- **기여도**: 전체 시스템 설계 및 팀 리딩
+- **Tech**: Spring Boot, React, MySQL, AWS
+- **성과**: 건강기능식품 커머스 플랫폼 0→1 구축
+
+</details>
 
 ---
 
@@ -169,7 +199,7 @@ gantt
     에이디아이콘         :2017-01, 2018-06
     헬리오소프트 (KT ds) :2019-12, 2021-03
     단비플러스 (SC제일)  :2024-07, 2025-03
-    NTS Soft (Riskzero) :2025-01, 2025-12
+    NTS Soft (Riskzero) :2024-09, 2024-12
 
     section Startup
     아이스파이프 LED     :2018-07, 2019-08
@@ -178,8 +208,7 @@ gantt
 
     section Team Lead
     Team Semicolon      :2018-01, 2020-12
-    PI200               :2025-02, 2025-12
-    4 NULL              :2024-11, 2025-12
+    Team Semicolon 재개 :2025-01, 2025-12
 ```
 
 ---
@@ -219,4 +248,3 @@ gantt
 ![Profile Views](https://komarev.com/ghpvc/?username=reus-jeon&color=blue&style=for-the-badge)
 
 </div>
-
